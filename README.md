@@ -1,1 +1,1 @@
-# Paper_reading
+# Figure–Equation–Code Aligned Paper Reading Prompt
